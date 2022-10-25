@@ -1,6 +1,6 @@
 from telebot import types
 
-ImagePath ='C:/Users/csc/Documents/hr_bot-dev/Files/'
+ImagePath ='Files/'
 
 start_message = '''
 Привет! 👋🏻
